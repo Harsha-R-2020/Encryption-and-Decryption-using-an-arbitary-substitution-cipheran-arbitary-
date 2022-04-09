@@ -1,0 +1,2 @@
+# Encryption-and-Decryption-using-an-arbitary-substitution-cipheran-arbitary-
+Program that can perform encryption and decryption using an arbitrary substitution cipher. In this case, the encryption array is a random shuffling of the letters in the alphabet. Your program should generate a random encryption array, its corresponding decryption array, and use these to encode and decode a message. ii) Write a program that can perform the Caesar cipher for English messages that include both upper and lowercase characters
